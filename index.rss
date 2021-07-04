@@ -17,5 +17,13 @@
       <pubDate>Wed, 4 Jul 2021 14:42:14 -0000</pubDate>
       <enclosure url="https://ipaudio3.club/wp-content/uploads/HHD/Game%20of%20Thrones/01.mp3" type="audio/mpeg"/>
     </item>
+    <item>
+      <title>A Game of thrones - 2 </title>
+      <description>
+        <![CDATA[<p>A Game of thrones part 2</p>]]>
+      </description>
+      <pubDate>Wed, 4 Jul 2021 14:43:14 -0000</pubDate>
+      <enclosure url="https://ipaudio3.club/wp-content/uploads/HHD/Game%20of%20Thrones/02.mp3" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
